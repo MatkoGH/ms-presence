@@ -6,7 +6,10 @@
     Custom <a href="https://discord.com/">Discord</a> Rich Presence at your fingertips.
 </h4>
 
-### UNFINISHED
+<h5 align="center">
+    This is an unfinished project, it does not work!    
+</h5>
+
 MS-Presence is a Node.js program that you can use to set a custom Discord Rich Presence on your profile.
 
 ## Overview
