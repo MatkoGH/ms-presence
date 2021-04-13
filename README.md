@@ -2,9 +2,9 @@
     <img src="https://cdn.martinstric.ca/content/assets/full-icon.png" alt="MS-Presence" width="180px">
 </h1>
 
-<h3 align="center">
+<h4 align="center">
     Custom <a href="https://discord.com/">Discord</a> Rich Presence at your fingertips.
-</h3>
+</h4>
 
 ### UNFINISHED
 MS-Presence is a Node.js program that you can use to set a custom Discord Rich Presence on your profile.
