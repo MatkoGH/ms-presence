@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://cdn.martinstric.ca/content/assets/full-icon.png" alt="MS-Presence" style="width: 180px;">
+    <img src="https://cdn.martinstric.ca/content/assets/full-icon.png" alt="MS-Presence" width="180px">
 </h1>
 
 <h3 align="center">
